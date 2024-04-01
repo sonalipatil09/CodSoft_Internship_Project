@@ -1,4 +1,4 @@
-# CodSoft_Task_1
-This is a Java Development Programming Task of Number Game.
+# CodSoft_Inetrnship_Project_Task
+This is a Java Development Programming Tasks of CodSoft Internship.
 <br>
 Author- Sonali Patil
